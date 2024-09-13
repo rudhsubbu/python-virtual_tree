@@ -1,0 +1,1 @@
+This code will create a simple GUI window with a canvas where trees are drawn. Each tree consists of a brown rectangle (trunk) and a green oval (foliage). The plant_tree method updates the canvas each time a tree is planted.
